@@ -40,10 +40,10 @@ Then you will need to select the folder where you cloned the project.
 When you will start the game you will start with Stickman running. As you enter the game, the kinect will detect the person that is the closest and choose him as the player. To be able to play correctly, be sure to have a clear space around the player.
 
 When it is done the player will have his the control of with his two hands:
-		* the right Hand will give two functionnalities:
-			* the control of the mouse cursor : the mouse cursor will follow your right hand allowing you to interact with certain elements of the game.
-			* the grip of the tools : two tools will be made available to the player, a hammer and a shield, the player will have the possibility, when the cursor will be on one on the tools icon, to take it by gripping it with his right hand. The mouse cursor will take the form of the tools and will then have the tool's properties.
-		* the left hand will push the Stickman (or make him jump) by swiping to the right.
+* the right Hand will give two functionnalities:
+	* the control of the mouse cursor : the mouse cursor will follow your right hand allowing you to interact with certain elements of the game.
+	* the grip of the tools : two tools will be made available to the player, a hammer and a shield, the player will have the possibility, when the cursor will be on one on the tools icon, to take it by gripping it with his right hand. The mouse cursor will take the form of the tools and will then have the tool's properties.
+* the left hand will push the Stickman (or make him jump) by swiping to the right.
 
 When you want to play with the keyboard, you will only have to use the mouse instead of your right hand and the left click of the mouse to grip the tools. The space bar will be used instead of the left hand in order to push the Stickman.
 
@@ -54,25 +54,25 @@ To give information to the player, there are icons on top of the screen.
 The hearts on the left are the remaining life of the player. The Stickman can be only touch 3 times by his ennemies, otherwise the game is other and the player need to start from the beginning.
 
 In the middle you have the tools. There are two tools that the player can use to help the stickman:
-		* the hammer: This tool is used to break the blocks that are breakable.
-		* the shield: This tool is used to protect the Stickman from the projectiles that are falling upon him.   
+* the hammer: This tool is used to break the blocks that are breakable.
+* the shield: This tool is used to protect the Stickman from the projectiles that are falling upon him.   
 
 ### The game's elements
 #### The ennemies
 
 The Stickman has four type of ennemies that can hirt him:
-		* The moving one : some ennemies are wandering in the world of Stickman, touching them might be painful.
-		* The falling spikes : some spikes are set higher than the Stickman waiting to fall on him.
-		* The cannon : some ennemies can throw projectiles toward the Stickman.
-		* The fall : be aware of void below, Stickman can't fly.
+* The moving one : some ennemies are wandering in the world of Stickman, touching them might be painful.
+* The falling spikes : some spikes are set higher than the Stickman waiting to fall on him.
+* The cannon : some ennemies can throw projectiles toward the Stickman.
+* The fall : be aware of void below, Stickman can't fly.
 
 #### The Blocks
 
 The player can interact with two types of blocks:
-		* The block that can be destroyed: Those blocks can be destroyed if you manage to put the hammer on them.
-		* The moving blocks : Those blocks can be moved. If the player put the mouse cursor on them, those blocks will follow it as long as the player moves it on the block's axe. There is two types of moving blocks:
-			* The blocks that moves on a limited axe. The player won't be able to get the block further than his axe.
-			* The blocks that moves without limitation. The player can get the block outside of its axe, but be careful, the block doesn't fall as long as it is on its axe. 
+* The block that can be destroyed: Those blocks can be destroyed if you manage to put the hammer on them.
+* The moving blocks : Those blocks can be moved. If the player put the mouse cursor on them, those blocks will follow it as long as the player moves it on the block's axe. There is two types of moving blocks:
+	* The blocks that moves on a limited axe. The player won't be able to get the block further than his axe.
+	* The blocks that moves without limitation. The player can get the block outside of its axe, but be careful, the block doesn't fall as long as it is on its axe. 
 
 
 
