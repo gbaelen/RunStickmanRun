@@ -17,7 +17,7 @@ The Kinect will allow some control on Stickman's world that the player will use 
 
 In order to use this project, you will need a couple of things.
 
-First of all, you will need to install Unity on your computer. The version that was used to make the project and test it was the version 5-0f-2017. You can download a version of unity [HERE]()
+First of all, you will need to install Unity on your computer. The version that was used to make the project and test it was the version 5 - 2017.2.0f3. You can download a version of unity [HERE](https://unity3d.com/fr/get-unity/download)
 
 Then, if you want to use the kinect to play the game, you will need to install the microsoft SDK v1.8. The game was made to work with the version 1 of the kinect. It will not work with the version 2 of the kinect.
 
@@ -32,6 +32,16 @@ git clone https://github.com/gbaelen/RunStickmanRun.git
 Once the repository is cloned on your computer, you need to open unity and choose *open a project*. 
 
 Then you will need to select the folder where you cloned the project.
+
+Unity will then open the project and to run it you will have to go to 
+
+```	
+File -> click on **Build settings**
+```
+In *scene to build* add the scenes **Menu** and **Blocs-Assembly**, select your operating system and then click on **build and run**. 
+ 
+The game will then launch.
+
 
 ## How to play to the game
 
@@ -78,7 +88,7 @@ The player can interact with two types of blocks:
 
 Please see this video presentation:
 
-[![Run Stickman Run](https://i.ytimg.com/vi/diUWLN393ls/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAYp52pGNrKNSK0nEow0tk2w5pl7g)](https://www.youtube.com/watch?v=diUWLN393ls&feature=youtu.be)
+->[![Run Stickman Run](https://i.ytimg.com/vi/diUWLN393ls/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAYp52pGNrKNSK0nEow0tk2w5pl7g)](https://www.youtube.com/watch?v=diUWLN393ls&feature=youtu.be)<-
 
 ## Authors
 
