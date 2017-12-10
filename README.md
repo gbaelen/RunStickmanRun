@@ -88,7 +88,7 @@ The player can interact with two types of blocks:
 
 Please see this video presentation:
 
-->[![Run Stickman Run](https://i.ytimg.com/vi/diUWLN393ls/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAYp52pGNrKNSK0nEow0tk2w5pl7g)](https://www.youtube.com/watch?v=diUWLN393ls&feature=youtu.be)<-
+[![Run Stickman Run](https://i.ytimg.com/vi/diUWLN393ls/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLAYp52pGNrKNSK0nEow0tk2w5pl7g)](https://www.youtube.com/watch?v=diUWLN393ls&feature=youtu.be)
 
 ## Authors
 
