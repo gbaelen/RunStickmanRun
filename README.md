@@ -2,7 +2,7 @@
 
 Run Stickman Run is a game in which the player doesn't take the control of a character but become a part of the game with the help of the kinect.
 
-In this game, Stickman is a student that didn't get a 20 to his 3DETech's project which result to him failing his studied and being kicked out of his school. 
+In this game, Stickman is a student that didn't get a 20 to his 3DETech's project which result to him failing his studies and being kicked out of his school. 
 
 Rejected by all, Stickman lost everything and became desperate to the point where his mind completly broke and made him lost all perspective to what is real and what is not.
 
