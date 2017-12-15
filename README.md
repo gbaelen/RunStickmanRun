@@ -8,7 +8,7 @@ Rejected by all, Stickman lost everything and became desperate to the point wher
 
 Stickman is now completly paranoiac. He is stuck in his mind where everyone and everything is against him and try to hirt him. So he runs. He runs for his life without stopping. Without paying attention to the things on his path. The only way for him to get out of his internal jail, is to go through.
 
-This is where the player come to use. The objective of the player is to help Stickman to go through his ennemies by modintfying his environment.
+This is where the player come to use. The objective of the player is to help Stickman to go through his ennemies by modifying his environment.
 
 The Kinect will allow some control on Stickman's world that the player will use to clear or change Stickman's path and protect him to allow him to come back to the real world.
 
