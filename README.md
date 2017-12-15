@@ -33,11 +33,10 @@ Once the repository is cloned on your computer, you need to open unity and choos
 
 Then you will need to select the folder where you cloned the project.
 
-Unity will then open the project and to run it you will have to go to 
+Unity will then open the project and to run it. 
 
-```	
-File -> click on **Build settings**
-```
+You will have to go to File -> click on **Build settings**
+
 In *scene to build* add the scenes **Menu** and **Blocs-Assembly**, select your operating system and then click on **build and run**. 
  
 The game will then launch.
