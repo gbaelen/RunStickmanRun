@@ -48,7 +48,7 @@ The game will then launch.
 
 When you will start the game you will start with Stickman running. As you enter the game, the kinect will detect the person that is the closest and choose him as the player. To be able to play correctly, be sure to have a clear space around the player.
 
-When it is done the player will have his the control of with his two hands:
+When it is done, the player will have the control of the game with his two hands:
 * the right Hand will give two functionnalities:
 	* the control of the mouse cursor : the mouse cursor will follow your right hand allowing you to interact with certain elements of the game.
 	* the grip of the tools : two tools will be made available to the player, a hammer and a shield, the player will have the possibility, when the cursor will be on one on the tools icon, to take it by gripping it with his right hand. The mouse cursor will take the form of the tools and will then have the tool's properties.
