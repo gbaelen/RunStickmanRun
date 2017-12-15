@@ -73,7 +73,7 @@ The Stickman has four type of ennemies that can hirt him:
 * The moving one : some ennemies are wandering in the world of Stickman, touching them might be painful.
 * The falling spikes : some spikes are set higher than the Stickman waiting to fall on him.
 * The cannon : some ennemies can throw projectiles toward the Stickman.
-* The fall : be aware of void below, Stickman can't fly.
+* The fall : be aware of the void below, Stickman can't fly.
 
 #### The Blocks
 
